@@ -1,0 +1,445 @@
+@font-face {
+    font-family: Open Sans;
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+html, body {
+font-size: 14px;
+background-color:#fff;
+font-family: "Roboto", sans-serif;
+}
+
+.container{
+	padding-left:10%;
+	padding-right:10%;
+}
+#header{
+	margin-top:34px;
+	margin-bottom: 34px;
+}
+#school-name{
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:0px;
+}
+#school-address{
+	font-size:14px;
+	margin: 0;
+}
+.panel, .flip {
+    padding: 10px;
+    background-color: white;
+    border: solid 1px #c3c3c3;
+	
+}
+.flip{
+	font-weight:bold;
+	margin-top:0px;
+}
+.flip p{
+	position:relative;
+	top:5px;
+	letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+.panel {
+	box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+    padding: 5px;
+    display: none;
+}
+.logo{
+	width:100%;
+	max-width: 180px
+}
+#pay{
+	color:black;
+	font-weight:bold;
+	font-size:14px;
+}
+#pay:hover{
+	color:#842D2D;
+}
+#past{
+	color:grey;
+	cursor:not-allowed;
+	font-size:14px;
+}
+.center-aln{
+	text-align:center;
+}
+.form-control{
+	font-size:14px;
+	height: 64px;
+    top: 2px;
+    left: 737px;
+}
+#next1{
+	width:120px;
+	text-align:center;
+	padding-left:6px;
+	padding-right:6px;
+}
+.btn-next{
+	height: 40px;
+	font-size:16px;
+	padding-left:40px;
+	padding-right:40px;
+	margin: 10px;
+}
+.lbl{
+		font-size:12px;
+		color:#ADADAD;
+	}
+.fee-row{
+	padding: 20px 15px;
+}
+.other-fee{
+	padding: 10px 15px;
+}
+.total-row{
+	background-color: grey;
+	color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.fee-name{
+	font-size: 14px;
+	font-weight:bold;
+	padding-left:5px;
+	padding-right:5px;
+}
+.due-date{
+	font-size:16px;
+}
+.fee-amt{
+	font-size:16px;
+}
+.right-aln{
+	text-align:center;
+}
+.right-only{
+	text-align:right;
+}
+.fee-total{
+	font-size:16px;
+	font-weight:bold;
+}
+.fee-option{
+	margin-top:5px;
+}
+
+.rmv-padding{
+	padding-left:0px;
+	padding-right:0px;
+}
+.fee-form{
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	box-shadow: 2px 2px 25px #FDEAEB;
+	padding:10px;
+	display:none;
+}
+.pointer-hvw{
+	cursor:pointer;
+}
+input[type=checkbox] {
+    zoom: 1.5;
+}
+input[class=brk-chkbx] {
+    zoom: 1;
+}
+
+.fee-desc{
+	color:grey;
+	font-size:12px;
+	margin-top:10px;
+}
+.more-detail{
+	color:#7C1C21;
+	font-size:12px;
+}
+.more-detail:hover{
+	color:blue;
+	cursor:pointer;
+}
+.brk-fee{
+	font-size:13px;
+}
+.brk-col-1{
+	margin:0px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#ackn-img{
+	max-width:150px;
+}
+.h-md{
+	font-weight:bold;
+	font-size:20px;
+}
+.hd-sm{
+	font-size:16px;
+	font-weight:bold;
+	color:#14277C;
+	margin-bottom:15px;
+	margin-top:15px;
+}
+.inner-table tbody tr td, .inner-table thead tr th{
+	font-size:12px;
+	padding: 3px 25px;
+}
+.inner-table{
+	margin-top:-10px;
+}
+@media only screen and (max-width: 770px) {
+	.right-aln{
+	text-align:left;
+	}
+	.fee-name{
+	font-size:15px;
+	}
+	.fee-form{
+	width:100%;
+	}
+}
+@media only screen and (max-width: 530px) {
+	.h-md{
+	font-size:18px;
+	}
+	#payment-desc .row p{
+		font-size:10px;
+	}
+}
+@media only screen and (max-width: 990px) {
+	.container{
+	padding-left:2%;
+	padding-right:2%;
+	}
+	.fee-amt{
+	font-size:14px;
+	}
+    .fee-total {
+      	font-size:14px;
+    }
+}
+
+label {
+  display: block;
+  padding-left: 15px;
+}
+input {
+  width: 13px;
+  height: 13px;
+  padding: 0;
+  margin:0;
+  vertical-align: bottom;
+  position: relative;
+  
+  *overflow: hidden;
+}
+.glyphicon-ok{
+	color:#0489ce;
+}
+.glyphicon-remove{
+	color:red;
+}
+.n-m-n-p{
+	margin: 0!important;
+	padding: 0!important;
+}
+.sponship-detail-title {
+    color: #484848;
+    font-weight: bold;
+    text-indent: 18px;
+    background-color: #ececec;
+    padding: 10px 0px;
+    letter-spacing: 0.6px;
+    border-radius: 2px;
+    margin-bottom: 14px;
+}
+  .bd-eqd-title p {
+    background: url(../images/logo-icon.png)no-repeat;
+    font-weight: 600;
+    padding-left: 35px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 12px;
+   	letter-spacing: 0.5px;
+}
+.bd-eqd-title font {
+    color: #1596dd;
+    font-weight: 500;
+}
+.qualification_lists {
+	font-size: 13px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 95%;
+    float: left;
+    letter-spacing: 0.5px;
+}
+.bd-Eqd ul{
+	margin: 0;
+	padding: 0;
+}
+.bd-Eqd ul li {
+    list-style: none;
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.qualification-select-c {
+    width: 4%;
+    margin-top: 2px !important;
+}
+.bd-eqd-title {
+    margin-bottom: 18px;
+    margin-top: 22px;
+}
+.bd-all-cnt label {
+    font-size: 13px;
+    margin: 0;
+    padding: 0px 6px;
+    margin-bottom: 12px;
+    color: #484848;
+}
+.bd-all-cnt input {
+    font-size: 14px;
+}
+.border_sp {
+    border-bottom: 1px dashed #ccc;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.bd-traing-cmplt{
+	float: left;
+}
+.bd-traing-cmplt input {
+    margin: -2px;
+}
+.n-t-c font {
+    margin-right: 8px;
+}
+.bd-all-cnt select{
+	font-size:14px; 
+}
+.examination_cnt {
+    margin-top: 18px;
+}
+.bd-m-p{
+    background-color: rgba(4, 137, 206, 0.07);
+    text-align: center;
+    line-height: 44px;
+    vertical-align: top;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08);
+    transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+    color: #484848;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.title-pn {
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.6px;
+    color: #484848;
+}
+.please-none-dec ul li {
+    list-style: decimal;
+    padding: 3px 0px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+        line-height: 24px;
+}
+.please-none-dec ul {
+    margin: 0;
+    padding: 0;
+    margin-left: 21px;
+}
+.please-none-dec p {
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.6px;
+}
+.bd-dis {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+    border-top: 1px dashed #ccc;
+    padding-top: 12px;
+}
+.make-payment {
+    background-color: #e84c3d;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+}
+.bdtick{
+	background: #fff;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08);
+}
+.bd-thnk-u h3 {
+    font-size: 36px;
+    font-weight: 600;
+    color: #565656;
+}
+.tank-u-details {
+   display: inline-block;
+    margin-top: 35px;
+    width: 100%;
+}
+.tank-u-details table {
+    border: 1px solid #ccc;
+}
+.tank-u-details td {
+    font-weight: 600;
+    font-size: 13px;
+}
+.tank-u-details table tr td {
+    padding: 12px;
+}
+.print-btn{
+	background: #0092dc;
+	color: #fff;
+	font-size:14px;
+	letter-spacing:0.6px;
+}
+.bd-all-cnt label>font {
+    color: red;
+    font-size: 11px;
+}
+.go-back{
+	background: #e74c3c;
+	    color: #fff;
+    font-size: 14px;
+    letter-spacing: 0.6px;
+}
+.try-again{
+	background: #f39c12;
+	    color: #fff;
+    font-size: 14px;
+    letter-spacing: 0.6px;
+}
+
+.err{font-size:12px;color:red}
+
+
+.panel-heading .accordion-toggle:after {
+    /* symbol for "opening" panels */
+    font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+    content: "\e114";    /* adjust as needed, taken from bootstrap.css */
+    float: right;        /* adjust as needed */
+    color: grey;         /* adjust as needed */
+}
+.panel-heading .accordion-toggle.collapsed:after {
+    /* symbol for "collapsed" panels */
+    content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+}

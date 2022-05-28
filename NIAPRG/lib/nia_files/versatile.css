@@ -1,0 +1,44 @@
+#header-band{
+	margin:0px;
+	padding:0px;
+	height:10px;
+	background-color: #14277C;
+}
+.flip{
+	background-color:#E2E2E2;
+	color:black;
+	-webkit-transition: all 0.5s; /* Safari */
+    transition: all 0.5s;
+}
+hr{
+	border-bottom: 1px solid #9E2029;
+}
+.fee-row{
+	border-bottom: 1px dashed  #9E2029;
+}
+.fee-option{
+}
+.brk-fee-row{
+	border-left:2px solid #CF6F74;
+}
+.blue{
+	background-color:rgb(4, 137, 206);
+	color:#fff;
+}
+.highlight{
+	color: #14277C;
+	font-size:18px;
+	font-weight:bold;
+}
+.dark-grey{
+	color:#7B7B7C;
+}
+i{
+	color:#636363;
+	margin:20px;
+	-webkit-transition: all 0.5s; /* Safari */
+    transition: all 0.5s;
+}
+i:hover{
+	color:#9E2029;
+}

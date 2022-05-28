@@ -1,0 +1,371 @@
+/*Form style*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+ body {
+    overflow-x: hidden;
+	font-family: "Roboto", sans-serif;
+ }
+
+
+/* Toggle Styles */
+.navbar-brand{height:30px;  position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;}
+.navbar-default{
+    
+    background-color:#fff;align-items:center; }
+
+/*lakshmi added*/
+.signupcss{
+background-color: #7982c9;
+    width: 70%;
+    color: white;
+    font-weight: bold;
+}
+
+.marq {
+    background: linear-gradient(to bottom, #FFD65E 0%, #FEBF04 100%) repeat scroll 0 0 transparent;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    font-family: open Sans,Arial;
+    font-size: 18px;
+    font-weight: bold;
+    height: 41px;
+    padding-left: 10px;
+}
+
+
+
+.imgclass {
+height:auto;
+width:100%;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:active {
+color: #000;  /*Sets the text hover color on navbar*/
+color: white; /*BACKGROUND color for active*/
+background-color: #647179;
+
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+color: white; /*BACKGROUND color for active*/
+background-color: #647179;
+font-weight:bold;
+}
+
+  .navbar-default {
+    background-color: #55636C;
+    border-color: #8E8A8A;
+}
+  .nav-ul {
+    display: inline-block;
+    list-style-type: none;
+    width:100%;
+}
+ .nav > li > a:hover,
+ .nav > li > a:active,
+ .nav > li > a:focus {
+    /*text-decoration: none;
+    background-color: silver;*/
+    color: white; /*BACKGROUND color for active*/
+background-color: #647179;
+
+     /*Change rollover cell color here*/
+  }
+
+
+  .navbar-default .navbar-nav > li > a {
+   color: white; /*Change active text color here*/
+   display:inline-block;
+   padding-right:40px;
+   padding-left:40px;
+       font-size:16px;
+
+    }
+
+/*lakshmi added*/
+#wrapper {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    width:100%;
+}
+
+#wrapper.toggled {
+    padding-left: 250px;
+}
+
+#sidebar-wrapper {
+    z-index: 1000;
+    position: fixed;
+    left: 250px;
+	top:110px;/*80px*/
+    width: 0;
+    height: 100%;
+    margin-left: -250px;
+    overflow-y: auto;
+    background: #e7e7e7;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    width: 250px;
+
+}
+
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+	top:55px;
+}
+
+#wrapper.toggled #page-content-wrapper {
+    position: absolute;
+    margin-right: -250px;
+}
+
+
+.login-page {
+  /*width: 360px;*/
+  padding: 2%;
+  margin: auto;
+  /*width: 50%;*/
+}
+/*lakshmi  modified as margin-bottom:100px; to margin-bottom:10px;*/
+.form {
+  position:relative;
+  z-index: 1;
+      /*margin-left: 204px;*/
+      margin-bottom:5px;
+  background: #FFFFFF;
+  /*max-width: 360px;
+  margin: 0 auto 100px;*/
+  padding: 25px;
+  padding-top:5px;
+  text-align: center;
+  width:100%;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form h1{font-size:30px;}
+.form input {
+  
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 8px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.home-header {background:#fcfcfc; padding-top:10px; padding-bottom:10px; border-bottom:solid 1px #f7f7f7;}
+.home-header .welcome-text p{margin-bottom:0px; }
+.home-header .welcome-text h3{margin:0px;}
+.home-header .Calendar{text-align:right; line-height:45px;}
+.with-nav-tabs.panel-primary .nav-tabs > li > a,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:focus {
+    color: #fff;
+}
+.with-nav-tabs.panel-primary .nav-tabs > .open > a,
+.with-nav-tabs.panel-primary .nav-tabs > .open > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > .open > a:focus,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:focus {
+	color: #fff;
+	background-color: #3071a9;
+	border-color: transparent;
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.active > a,
+.with-nav-tabs.panel-primary .nav-tabs > li.active > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li.active > a:focus {
+	color: #428bca;
+	background-color: #fff;
+	border-color: #428bca;
+	border-bottom-color: transparent;
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu {
+    background-color: #428bca;
+    border-color: #3071a9;
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > li > a {
+    color: #fff;   
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > li > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > li > a:focus {
+    background-color: #3071a9;
+}
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > .active > a,
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > .active > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li.dropdown .dropdown-menu > .active > a:focus {
+    background-color: #ffffff;
+}
+.page-title{background-color:#ffffff; padding:10px; color:0px; margin:0px; margin-bottom:10px;}
+.page-title h3{margin:0px; color:#fff;}
+.navbar{margin-bottom:0px;}
+.main-menu.navbar-nav{margin-top:0px;}
+.user-details{margin-top:25px; float:right;}
+.user-details ul{list-style-type:none; float:right;}
+.user-details ul li{border-left:solid 1px #333; float:left; padding: 0px 10px;}
+.user-details ul li:first-child{border-left:solid 0px #f7f7f7;}
+/*.navbar-nav{margin-top:15px;}*/
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4CAF50;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.form button:hover,.form button:active,.form button:focus {
+  background: #43A047;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+.form .message a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+.form .register-form {
+  display: none;
+}
+.container {
+  position: relative;
+  z-index: 1;
+  margin: 0 auto;
+}
+.container:before, .container:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.container .info {
+  margin: 50px auto;
+  text-align: center;
+}
+.container .info h1 {
+  margin: 0 0 15px;
+  padding: 0;
+  font-size: 36px;
+  font-weight: 300;
+  color: #1a1a1a;
+}
+.container .info span {
+  color: #4d4d4d;
+  font-size: 12px;
+}
+.container .info span a {
+  color: #000000;
+  text-decoration: none;
+}
+.container .info span .fa {
+  color: #EF3B3A;
+}
+/* Sidebar Styles */
+.sidebar-button button{
+	position:relative;
+	z-index:222222;
+	top:80px;
+	left:0px;
+	background-color:#43A047;
+	color:#fff;
+}
+.sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar-nav li {
+    text-indent: 20px;
+    line-height: 40px;
+	background-color:#4CAF50;
+}
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+	border-bottom:solid 1px #fff;
+}
+.sidebar-nav li:last-child{background-color:transparent;;}
+.sidebar-nav li:last-child a{border-bottom:solid 0px #777777; padding:15px;}
+
+.sidebar-nav li a:hover {
+    text-decoration: none;
+    color: #fff;
+    background: rgba(255,255,255,0.2);
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+    text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+    height: 65px;
+    font-size: 18px;
+    line-height: 60px;
+}
+
+.sidebar-nav > .sidebar-brand a {
+    color: #999999;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+    color: #fff;
+    background: none;
+}
+
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 250px;
+    }
+
+    #wrapper.toggled {
+        padding-left: 0;
+    }
+
+    #sidebar-wrapper {
+        /*width: 250px;*/
+        width:199px;
+    }
+
+    #wrapper.toggled #sidebar-wrapper {
+        width: 0;
+    }
+
+    #page-content-wrapper {
+        padding: 50px 20px;
+        position: relative;
+    }
+
+    #wrapper.toggled #page-content-wrapper {
+        position: relative;
+        margin-right: 0;
+    }
+    #h4class{font-weight: bolder; color: #53aff7;}
+}

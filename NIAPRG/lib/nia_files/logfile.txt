@@ -1,0 +1,320 @@
+Time: 10/07/2017 05:29:30 PM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000000015|JCIT5459612575|548481-458660|2.00|CIT|485446|03|INR|DIRECT|NA|NA|00000000.00|28-06-2017 12:10:24|0300|NA|9999555555|test@test.com|NA|NA|NA|NA|NA|NA|Success|EB551D6EC5A20B657505B121E4232DE49161A9354981DBC27693C2BA3FDF0525
+-----------------------------------------------------------
+
+Time: 02/08/2017 06:20:17 PM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000000015|JCIT5459612575|548481-458660|2.00|CIT|485446|03|INR|DIRECT|NA|NA|00000000.00|28-06-2017 12:10:24|0300|NA|9999555555|test@test.com|NA|NA|NA|NA|NA|NA|Success|EB551D6EC5A20B657505B121E4232DE49161A9354981DBC27693C2BA3FDF0525
+-----------------------------------------------------------
+
+Time: 01/09/2017 02:38:35 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW||NA||NA|NA|NA|INR|NA|R|nianew|NA|NA|F|||NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|6F761391D4535CA28C5E4B425029CB766F1E6CBFEDC2B6D73232BE7CAA94C731
+-----------------------------------------------------------
+
+Time: 01/09/2017 02:40:10 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW||NA||NA|NA|NA|INR|NA|R|nianew|NA|NA|F|||NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|6F761391D4535CA28C5E4B425029CB766F1E6CBFEDC2B6D73232BE7CAA94C731
+-----------------------------------------------------------
+
+Time: 17/10/2017 11:35:39 AM
+-----------------------------------------------------------
+paymentRequest: NIABRKR|NIAREG000000000001019|NA|2.00|NA|NA|NA|INR|NA|R|niabrkr|NA|NA|F|8179469768|lakshmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/examordreturn.aspx|222CDAB546A0BA6FF037D8186B37AD57D85DD1A76C947327976A0D309629D21A
+-----------------------------------------------------------
+
+Time: 27/10/2017 04:46:04 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 27/10/2017 04:48:25 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 27/10/2017 04:48:29 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 27/10/2017 04:48:31 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 27/10/2017 04:50:07 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 27/10/2017 04:53:10 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 27/10/2017 04:54:34 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 27/10/2017 04:56:09 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 27/10/2017 05:14:27 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001020|NA|2.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|39EC201D3906BB79AD2D91A7409D1D77B170ABE49964F94BD529101473BCA3F9
+-----------------------------------------------------------
+
+Time: 12/11/2017 12:49:56 AM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 12/11/2017 12:50:32 AM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 12/11/2017 01:20:13 AM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000000015|JCIT5459612575|548481-458660|2.00|CIT|485446|03|INR|DIRECT|NA|NA|00000000.00|28-06-2017 12:10:24|0300|NA|9999555555|test@test.com|NA|NA|NA|NA|NA|NA|Success|EB551D6EC5A20B657505B121E4232DE49161A9354981DBC27693C2BA3FDF0525
+-----------------------------------------------------------
+
+Time: 12/11/2017 11:18:14 AM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000001024|NA|0.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|somu.eswar8@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx
+-----------------------------------------------------------
+
+Time: 12/11/2017 11:18:59 AM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000001024|NA|0.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|somu.eswar8@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx
+-----------------------------------------------------------
+
+Time: 12/11/2017 11:19:31 AM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000001024|NA|0.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|somu.eswar8@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx
+-----------------------------------------------------------
+
+Time: 12/11/2017 11:25:50 AM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000001027|NA|0.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi084991@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx
+-----------------------------------------------------------
+
+Time: 12/11/2017 11:26:25 AM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000001027|NA|0.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi084991@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx
+-----------------------------------------------------------
+
+Time: 12/11/2017 11:26:55 AM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000001027|NA|0.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi084991@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx
+-----------------------------------------------------------
+
+Time: 12/11/2017 11:27:31 AM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000001027|NA|0.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi084991@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx
+-----------------------------------------------------------
+
+Time: 29/11/2017 09:07:03 AM
+-----------------------------------------------------------
+paymentRequest: NIABRKR|NIAREG000000000001034|NA|2950.00|NA|NA|NA|INR|NA|R|niabrkr|NA|NA|F|1234567890|Somu.eswar123@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/examordreturn.aspx|DF336FB090BCBAACC7B1D067B6DA562A80541C00EC5C09B6693313E5C03F9101
+-----------------------------------------------------------
+
+Time: 29/11/2017 09:11:42 AM
+-----------------------------------------------------------
+paymentRequest: NIABRKR|NIAREG000000000001034|NA|2950.00|NA|NA|NA|INR|NA|R|niabrkr|NA|NA|F|1234567890|Somu.eswar123@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/examordreturn.aspx|DF336FB090BCBAACC7B1D067B6DA562A80541C00EC5C09B6693313E5C03F9101
+-----------------------------------------------------------
+
+Time: 29/11/2017 09:34:32 AM
+-----------------------------------------------------------
+paymentRequest: NIABRKR|NIAREG000000000001036|NA|2950.00|NA|NA|NA|INR|NA|R|niabrkr|NA|NA|F|7306549295|somu.eswar80@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/examordreturn.aspx|5FAFBE2FCE2EE062E051D22F94AE942CDCA5D50DA19106C82C7CCBC2F703EDDD
+-----------------------------------------------------------
+
+Time: 29/11/2017 09:39:20 AM
+-----------------------------------------------------------
+paymentRequest: NIABRKR|NIAREG000000000001036|NA|2950.00|NA|NA|NA|INR|NA|R|niabrkr|NA|NA|F|7306549295|somu.eswar80@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/examordreturn.aspx|5FAFBE2FCE2EE062E051D22F94AE942CDCA5D50DA19106C82C7CCBC2F703EDDD
+-----------------------------------------------------------
+
+Time: 29/11/2017 10:58:22 AM
+-----------------------------------------------------------
+paymentRequest: NIABRKR|NIAREG000000000001038|NA|2950.00|NA|NA|NA|INR|NA|R|niabrkr|NA|NA|F|9948919134|jraju@thebostongroup.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/examordreturn.aspx|23D45EBE6B5583405B973B00406493F88876322CA8818A2259AE5C49DEA72506
+-----------------------------------------------------------
+
+Time: 01/01/2018 08:25:27 AM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 01/01/2018 08:33:28 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001043|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|xzczx@dfd.ds|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|F06E2E37AE2A402CBCC882ED7FE53A1B04AC3B626CDEDE323562C4E8BDB8BEB0
+-----------------------------------------------------------
+
+Time: 06/04/2018 05:01:53 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001606|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|9948919134|dfdfdfd@dgrfrtrt.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|3EFC5961E3220EE242FEB9BD051FE104075787D80B1A2D00EA88030A3B05E525
+-----------------------------------------------------------
+
+Time: 06/04/2018 05:03:46 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001607|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|xzczx@dfd.ds|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|E4215410F77E43C4EE10BB67D05FB229D86B4339992D1C9A2A16C3FAEBA8E341
+-----------------------------------------------------------
+
+Time: 06/04/2018 05:05:00 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001608|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|xzczx@dfd.ds|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|664FB3BA98E440AB6BED96C0080194E63E840A0F1869F4C87416E875D07FF445
+-----------------------------------------------------------
+
+Time: 06/04/2018 05:06:16 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001609|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|xzczx@dfd.ds|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|BCF0D4F6F8B58E2DB21A8A27278B13C6DD26DAD54D07EC0B8997DBBE0AEE2D1E
+-----------------------------------------------------------
+
+Time: 06/04/2018 05:24:52 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001610|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|xzczx@dfd.ds|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|8C22EABA6DECA1FF2750D35CC458163067F0312FCB7C476D7F7AA3D655C1E13A
+-----------------------------------------------------------
+
+Time: 06/04/2018 05:32:38 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001611|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|pavan@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|4BFB3527A3FBAD0FD98C1BD59026EEC64A88AE093D4CE1F7ED8420CB79109588
+-----------------------------------------------------------
+
+Time: 09/04/2018 09:54:31 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001612|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakssssmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|D9F86DC0260B3E9F237596ADBC622323A18F5820571677C9DBA57002D49C1425
+-----------------------------------------------------------
+
+Time: 09/04/2018 09:56:54 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001613|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakssssmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|CD79E8510C344F5861C51B49CD57E5CB5CB8351E515BA5ADCEDE14672A332191
+-----------------------------------------------------------
+
+Time: 09/04/2018 10:31:57 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001614|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakssssmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|CA96D767D9F0E9471099C153C1230192F5F687A3ABB159C72F3BDEED429EA5E9
+-----------------------------------------------------------
+
+Time: 09/04/2018 11:31:22 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001615|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakssssmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|554D0A96EFAF4A519C259B5FC9FE5AE1401D8365799D3EFBE0CC5E6CDED2987A
+-----------------------------------------------------------
+
+Time: 09/04/2018 01:14:34 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001616|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|xzczx@dfd.ds|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|B284EB3638598D37089BD396110A76EFE290904C4B8EDC67DC0C89B484B70DBE
+-----------------------------------------------------------
+
+Time: 09/04/2018 01:25:42 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001617|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|xzczx@dfd.ds|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|5C6AAA09D2FE855F63BA11D9D8B9D65EB031F747F0FCECAB6470EF5792239350
+-----------------------------------------------------------
+
+Time: 09/04/2018 03:00:23 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001618|NA|2596.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|4DED3D9A0E83C06ECDBFC78EA82F4A2B0578E99392EA88A05D0CD51782E60D62
+-----------------------------------------------------------
+
+Time: 09/04/2018 04:51:00 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001619|NA|2596.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|xzczx@dfd.ds|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|A0FE056841D1DB89D0D6550A70D7B6E089F665644D3AAA0A5B49BFA056F295A8
+-----------------------------------------------------------
+
+Time: 23/04/2018 04:43:12 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001824|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|pavan@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|CD7EB7D9A2B24420985A11AF8AF9DD25D2C5E9A1C6F52A1067F54AD266C87F19
+-----------------------------------------------------------
+
+Time: 23/04/2018 05:18:27 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001827|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|pavan@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|62747FA839106A90EF8EB5706D80E527114E87C5EB9DDD752B38C420AE803926
+-----------------------------------------------------------
+
+Time: 23/04/2018 05:33:27 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001633|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|04314F38239B2C3C3E864B75F88A97F79FDC673E13285E319053671C900C869B
+-----------------------------------------------------------
+
+Time: 23/04/2018 05:56:46 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001634|NA|2596.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|88E371FFE4DB15E56B39B2C106063C35CCEF3B8564E046CA0228262A86057356
+-----------------------------------------------------------
+
+Time: 24/04/2018 09:49:42 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000001635|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|D160EC12869B18923575F82BDBDB671D021F3CD37CDF6B97F5E48317A7F2D0CA
+-----------------------------------------------------------
+
+Time: 06/07/2018 12:25:40 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000002601|NA|2596.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|lakshmi08499@gmail.com|NA|NA|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|69AB0570AA9CA0B399250E7993B971074CEF0637FDA8E7B21B88A50466AAF6AE
+-----------------------------------------------------------
+
+Time: 26/02/2019 11:19:41 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000003782|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|9959459913|test@gmail.com|PAVAN|CQLPK7823S|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|AFAC6654895D6821946908B5536D4D8D8FE3D09785A03736C2E5A69E3938E432
+-----------------------------------------------------------
+
+Time: 26/02/2019 11:20:48 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000003783|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|9959459913|test@gmail.com|PAVAN|CQLPK7823S|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|F41170ACAA8B413F5C55C4E0DDDF13F6DC08E0F28F52075B61B5C29C5715EC0A
+-----------------------------------------------------------
+
+Time: 26/02/2019 11:22:06 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000003784|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|9959459913|test@gmail.com|PAVAN|CQLPK7823S|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|E46AB721253A9AB59118EB2A7B57504255B41ABD14B7408ECF8A618ED81A4569
+-----------------------------------------------------------
+
+Time: 26/02/2019 11:24:23 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000003785|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|8179469768|test@gmail.com|K.V.S.LAKSHMI|CQLPK7823q|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|5BF05600B444A6F622E476305946D46FD42BF2CD1429DCBBB3F501588AADBB55
+-----------------------------------------------------------
+
+Time: 26/02/2019 12:09:41 PM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000004409|PHMP7259132513|008539|2360.00|HMP|463918|02|INR|DIRECT|05-NA|NA|00000027.84|25-02-2019 17:10:29|0300|NA|9990405059|anshikam@bajajcapital.com|SUNKARA MOUNIKA|FYPPS1535D|NA|NA|NA|NA|PGS10001-Success|FAB7A5E25A205A306453A524547A44EED63BAFFB667931CFD3A463F5F0B0EC81
+-----------------------------------------------------------
+
+Time: 26/02/2019 12:47:20 PM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000004409|PHMP7259132513|008539|2360.00|HMP|463918|02|INR|DIRECT|05-NA|NA|00000027.84|25-02-2019 17:10:29|0300|NA|9990405059|anshikam@bajajcapital.com|SUNKARA MOUNIKA|FYPPS1535D|NA|NA|NA|NA|PGS10001-Success|FAB7A5E25A205A306453A524547A44EED63BAFFB667931CFD3A463F5F0B0EC81
+-----------------------------------------------------------
+
+Time: 26/02/2019 12:58:08 PM
+-----------------------------------------------------------
+paymentResponse: NIANEW|NIAREG000000000004409|PHMP7259132513|008539|2360.00|HMP|463918|02|INR|DIRECT|05-NA|NA|00000027.84|25-02-2019 17:10:29|0300|NA|9990405059|anshikam@bajajcapital.com|SUNKARA MOUNIKA|FYPPS1535D|NA|NA|NA|NA|PGS10001-Success|FAB7A5E25A205A306453A524547A44EED63BAFFB667931CFD3A463F5F0B0EC81
+-----------------------------------------------------------
+
+Time: 24/04/2019 04:33:15 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 24/04/2019 04:38:41 PM
+-----------------------------------------------------------
+paymentResponse: 
+-----------------------------------------------------------
+
+Time: 22-04-2021 11:21:33 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000009599|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|3523532523|35235dsfdsff@tasfsaff|TEST|BBXPS0455K|NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|A087B424466BF336517F013EDA24D3D7A1488238879E32709D344316BE488110
+-----------------------------------------------------------
+
+Time: 22-04-2021 11:40:43 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000009601|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|||||NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|AC93E0B596A2E2A6468C6EB43CF019958E7396599A67B8E8D8B7A8A2CA7D379A
+-----------------------------------------------------------
+
+Time: 16-02-2022 11:34:58 AM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000012960|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|||||NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|8643177B10F4704E2C2EDA2FD349FAD1D0EFA4A2713415533385796316B5B7AE
+-----------------------------------------------------------
+
+Time: 16-02-2022 12:00:52 PM
+-----------------------------------------------------------
+paymentRequest: NIANEW|NIAREG000000000012961|NA|2360.00|NA|NA|NA|INR|NA|R|nianew|NA|NA|F|||||NA|NA|NA|http://103.241.144.250/lib/courseordreturn.aspx|03D1B915A35D2E0ABA962B79CD101E5A7499C8C78CFF421B2FF13B17996A6F81
+-----------------------------------------------------------
+
